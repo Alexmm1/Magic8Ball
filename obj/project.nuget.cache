@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PKgaa64X2X80uEKZ15WelMGsoL8FhTMYAlk21LA5BihEIovOdw1skfDd9SY2Oz+sbw63TYymE3h9UJZrmPHUbQ==",
+  "success": true,
+  "projectFilePath": "/home/alexander/Documents/projects/Magic8Ball/Magic8Ball.csproj",
+  "expectedPackageFiles": [
+    "/home/alexander/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.13/microsoft.aspnetcore.app.ref.7.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

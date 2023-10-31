@@ -1,0 +1,15 @@
+/home/alexander/Documents/projects/Magic8Ball/bin/Debug/net7.0/Magic8Ball
+/home/alexander/Documents/projects/Magic8Ball/bin/Debug/net7.0/Magic8Ball.deps.json
+/home/alexander/Documents/projects/Magic8Ball/bin/Debug/net7.0/Magic8Ball.runtimeconfig.json
+/home/alexander/Documents/projects/Magic8Ball/bin/Debug/net7.0/Magic8Ball.dll
+/home/alexander/Documents/projects/Magic8Ball/bin/Debug/net7.0/Magic8Ball.pdb
+/home/alexander/Documents/projects/Magic8Ball/obj/Debug/net7.0/Magic8Ball.csproj.AssemblyReference.cache
+/home/alexander/Documents/projects/Magic8Ball/obj/Debug/net7.0/Magic8Ball.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexander/Documents/projects/Magic8Ball/obj/Debug/net7.0/Magic8Ball.AssemblyInfoInputs.cache
+/home/alexander/Documents/projects/Magic8Ball/obj/Debug/net7.0/Magic8Ball.AssemblyInfo.cs
+/home/alexander/Documents/projects/Magic8Ball/obj/Debug/net7.0/Magic8Ball.csproj.CoreCompileInputs.cache
+/home/alexander/Documents/projects/Magic8Ball/obj/Debug/net7.0/Magic8Ball.dll
+/home/alexander/Documents/projects/Magic8Ball/obj/Debug/net7.0/refint/Magic8Ball.dll
+/home/alexander/Documents/projects/Magic8Ball/obj/Debug/net7.0/Magic8Ball.pdb
+/home/alexander/Documents/projects/Magic8Ball/obj/Debug/net7.0/Magic8Ball.genruntimeconfig.cache
+/home/alexander/Documents/projects/Magic8Ball/obj/Debug/net7.0/ref/Magic8Ball.dll
